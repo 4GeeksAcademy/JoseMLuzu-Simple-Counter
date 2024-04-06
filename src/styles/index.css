@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+div{
+    background-color: black;
+    color: aliceblue;
+    font-size: 100px;
+}
+
+.digit{
+    margin-left: 100px;
+}
